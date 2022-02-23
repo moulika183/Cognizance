@@ -1,6 +1,4 @@
-x = input("Enter the string:")
-y = 0
-for z in x:
-    if(y%2==0):
-        print(z, end="")
-    y = y+1
+x=input("Enter a String:")
+n=len(x)
+y= slice(0, n+1, 2)
+print(x[y])
