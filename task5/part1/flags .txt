@@ -1,0 +1,11 @@
+1) FIRST FLAG{f1rst_fl@g_h3r3}
+2) SECOND FLAG{e@5y_p@ssw0rd!}
+3) THIRD FLAG {3x3cut10n_d0n3!}
+4) FOURTH FLAG{t@c_15_fun!}
+5) FIFTH FLAG{Y0u_f0und_m3!}
+6) SIXTH FLAG{m3ow_m3ow_cat!}
+7) SEVENTH FLAG{gr3p_f1nds_fl@gs!}
+8) EIGHTH FLAG{Y0u_f0und_th3_hidd3n_dir!}
+9) NINETH FLAG{h1dden_fil3!}
+10) TENTH FLAG{t3xt_15_n0t_h1dd3n!}
+11) ELEVENTH FLAG{d1ff_15_u53ful!}
