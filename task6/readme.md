@@ -1,4 +1,4 @@
-# **NRITYASHETRA DANCE ACADEMY**
+## **NRITYASHETRA DANCE ACADEMY**
 ---
 check out the landing page !
 ---
@@ -8,7 +8,7 @@ check out the landing page !
 **NRIYASHETRA DANCE ACADEMY IS A ONLINE DANCE PLATFORM WHERE YOU CAN LEARN DANCE EVEN IF YOU ARE A BEGGINER AND CAN ENHANCE YOUR SKILLS**
 ---
 ## **`MOTIVATION :`**
-Apart from academics each student should have a extra skill to survive in this competitive world.An extra skill will always be an add on to your profile and you can be indeendent if your so confident about your skill.so what are you waiting for ? 
+## Apart from academics each student should have a extra skill to survive in this competitive world.An extra skill will always be an add on to your profile and you can be indeendent if your so confident about your skill.so what are you waiting for ? 
 ---
 join ,bulid your skill and master on it!
 ---
