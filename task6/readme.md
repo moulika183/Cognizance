@@ -4,19 +4,19 @@ check out the landing page !
 [Click me!](https://raw.githubusercontent.com/moulika183/Cognizance/master/task3/TASK%203%20moulika%20sai.png)
 ## **`THEME :`**
 ---
-### Nrityashetra dance academy is a online platform where you can learn dance even if you are a begginer and can enhance your skill
+### Nrityashetra dance academy is an online platform where you can learn dance even if you are a beginner and can enhance your skill
 ---
 ## **`MOTIVATION :`**
 ---
-### Apart from academics each student should have a extra skill to survive in this competitive world.An extra skill will always be an add on to your profile and you can be indeendent if your so confident about your skill.so what are you waiting for ? join ,bulid your skill and master on it!
+### Apart from academics each student should have an extra skill to survive in this competitive world.An extra skill will always be an add on to your profile and you can be independent if your so confident about your skill.so what are you waiting for ? join ,build your skill and master on it!
 ---
 ## **`FUTURE IMPROVEMENTS :`**
 ---
-- you'll have classes during week days and weekends ,you can opt either one
-- you can even have one to one tutor
-- regular practice will enhance the skill ,so regularity should be maintained
-- every sunday you will be tested practically
-- after the practical test youll have one to one session with the teachers so that u can rectify your mistakes*
+- You'll have classes during week days and weekends ,you can opt either one
+- You can even have one to one tutor
+- Regular practice will enhance the skill ,so regularity should be maintained
+- Every sunday you will be tested practically
+- After the practical test you'll have one to one session with the teachers so that u can rectify your mistakes
 ---
 ![alt text](https://raw.githubusercontent.com/moulika183/Cognizance/master/task3/landing%20page.jpg)
 ---
