@@ -9,8 +9,7 @@ check out the landing page !
 ---
 ## **`MOTIVATION :`**
 ---
-Apart from academics each student should have a extra skill to survive in this competitive world.An extra skill will always be an add on to your profile and you can be indeendent if your so confident about your skill.so what are you waiting for ? 
----
+### Apart from academics each student should have a extra skill to survive in this competitive world.An extra skill will always be an add on to your profile and you can be indeendent if your so confident about your skill.so what are you waiting for ? 
 join ,bulid your skill and master on it!
 ---
 ---
