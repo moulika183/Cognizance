@@ -5,7 +5,7 @@ check out the landing page !
 [Click me!](https://raw.githubusercontent.com/moulika183/Cognizance/master/task3/TASK%203%20moulika%20sai.png)
 ## **`THEME :`**
 ---
-### NRIYASHETRA DANCE ACADEMY IS A ONLINE DANCE PLATFORM WHERE YOU CAN LEARN DANCE EVEN IF YOU ARE A BEGGINER AND CAN ENHANCE YOUR SKILLS
+### Nrityashetra dance academy is a online platform where you can learn dance even if you are a begginer and can enhance your skill
 ---
 ## **`MOTIVATION :`**
 ---
@@ -18,7 +18,6 @@ check out the landing page !
 - regular practice will enhance the skill ,so regularity should be maintained
 - every sunday you will be tested practically
 - after the practical test youll have one to one session with the teachers so that u can rectify your mistakes*
----
 ---
 ![alt text](https://raw.githubusercontent.com/moulika183/Cognizance/master/task3/landing%20page.jpg)
 ---
