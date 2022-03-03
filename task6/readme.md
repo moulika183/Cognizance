@@ -1,4 +1,4 @@
-## **NRITYASHETRA DANCE ACADEMY**
+<span style="color:red">**NRITYASHETRA DANCE ACADEMY**</span>
 check out the landing page !
 ---
 [Click me!](https://raw.githubusercontent.com/moulika183/Cognizance/master/task3/TASK%203%20moulika%20sai.png)
@@ -16,7 +16,7 @@ check out the landing page !
 - You can even have one to one tutor
 - Regular practice will enhance the skill ,so regularity should be maintained
 - Every sunday you will be tested practically
-- After the practical test you'll have one to one session with the teachers so that u can rectify your mistakes
+- After the practical test you'll have one to one session with the teachers so that you can rectify your mistakes
 ---
 ![alt text](https://raw.githubusercontent.com/moulika183/Cognizance/master/task3/landing%20page.jpg)
 ---
